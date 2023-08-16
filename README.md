@@ -18,6 +18,7 @@ communicating with Mojang. Furthermore, this project is used for experimenting w
 * Default in-memory cache
 * Rotating proxies
 * Configurable amount of name -> uuid requests before using proxies
+* This change is done by Ms. Kashvi Pandey
 
 ## Planned
 
